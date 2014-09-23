@@ -1,0 +1,5 @@
+/app/etc/modules/Sandfox_CouponMessages.xml                 /app/etc/modules/Sandfox_CouponMessages.xml
+/app/code/community/Sandfox/CouponMessages                  /app/code/community/Sandfox/CouponMessages
+/app/locale/de_DE/Sandfox_CouponMessages.csv                /app/locale/de_DE/Sandfox_CouponMessages.csv
+/app/locale/en_US/Sandfox_CouponMessages.csv                /app/locale/en_US/Sandfox_CouponMessages.csv
+/app/locale/fr_FR/Sandfox_CouponMessages.csv                /app/locale/fr_FR/Sandfox_CouponMessages.csv
