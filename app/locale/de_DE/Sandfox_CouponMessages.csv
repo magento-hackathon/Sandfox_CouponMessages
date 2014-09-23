@@ -10,7 +10,7 @@
 "Your total quantity must be greater than ""%s"".","Die Gesamtzahl in Ihrem Warenkorb muss mehr als ""%s"" sein."
 "Your total quantity must be less than ""%s"".","Die Gesamtzahl in Ihrem Warenkorb muss weniger als ""%s"" sein."
 "Your total quantity can't be equal to ""%s"".","Die Gesamtzahl in Ihrem Warenkorb darf nicht genau ""%s"" sein."
-"Your total items weight must be equal to ""%s"".","Das Gesamtgewicht muss genau "%s" sein."
+"Your total items weight must be equal to ""%s"".","Das Gesamtgewicht muss genau ""%s"" sein."
 "Your total items weight must be less than or equal to ""%s"".","Das Gesamtgewicht muss weniger als oder genau ""%s"" sein."
 "Your total items weight be greater than or equal to ""%s"".","Das Gesamtgewicht muss mehr als oder genau ""%s"" sein."
 "Your total items weight must be greater than ""%s"".","Das Gesamtgewicht muss mehr als ""%s"" sein."
